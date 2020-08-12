@@ -1,0 +1,13 @@
+1. Install xamp 
+2. Install Composer 
+3. Create project with composer 
+ composer create-project symfony/skeleton my_project_name
+
+4. What's next? 
+
+  * Run your application:
+    1. Go to the project directory
+    2. Create your code repository with the git init command
+    3. Download the Symfony CLI at https://symfony.com/download to install a development web server
+
+  * Read the documentation at https://symfony.com/doc
