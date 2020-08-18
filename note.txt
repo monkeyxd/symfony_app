@@ -11,3 +11,16 @@
     3. Download the Symfony CLI at https://symfony.com/download to install a development web server
 
   * Read the documentation at https://symfony.com/doc
+
+
+  Cmd git : 
+
+  git init 
+
+git remote add origin https://github.com/monkeyxd/symfony_app
+
+git status 
+
+git pull .
+
+git commit -m "initial comit"
