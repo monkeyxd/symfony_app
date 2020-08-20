@@ -24,3 +24,10 @@ git status
 git pull .
 
 git commit -m "initial comit"
+
+git pull --rebase origin master
+git push origin master
+
+Installer un package 
+
+ composer require --dev symfony/profiler-pack
